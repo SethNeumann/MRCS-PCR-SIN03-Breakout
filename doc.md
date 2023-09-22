@@ -1,10 +1,3 @@
-### How to use this template:
-
-  1. Create a repo using this template, 
-  2. Create your project content using eagle...
-  3. Edit the other text files to describe your project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
-  
+This board is to provide a neater and more reliable mounting for the PCR-SIN03 ringing generators often found on eBay,
+the board has a barrel jack so the module can be powered by a wall wart, a voltage divider to provide 5V for the INHibit line
+to gate ringing or create a cadence. There is also an 8 position 0.100 connector for power, daisy chain, INH/5VR and ringing output.
